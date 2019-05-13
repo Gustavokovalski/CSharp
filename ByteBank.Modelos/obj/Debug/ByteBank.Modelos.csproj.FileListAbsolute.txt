@@ -5,3 +5,10 @@ C:\Users\gsaporiti\Downloads\csharppt6-aula3\csharppt6-aula3\ByteBank.Modelos\ob
 C:\Users\gsaporiti\Downloads\csharppt6-aula3\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
 C:\Users\gsaporiti\Downloads\csharppt6-aula3\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
 C:\Users\gsaporiti\Downloads\csharppt6-aula3\csharppt6-aula3\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\gsaporiti\Desktop\Csharp\CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
