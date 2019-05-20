@@ -1,0 +1,7 @@
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+\\tcprofiles\usersprofiles$\TC824771\Documents\CSharp\CSharp\CSharp - Streams-(I-O)\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
