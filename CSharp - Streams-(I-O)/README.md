@@ -1,3 +1,5 @@
+CONTEUDO VISTO:
+
 Como lidar com arquivos grandes e maiores que a RAM do computador;
 
 O que são Streams;
