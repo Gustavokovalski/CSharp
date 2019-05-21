@@ -1,6 +1,11 @@
-﻿using System;
-using System.IO;
+﻿using ByteBankImportacaoExportacao.Modelos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
+
+using System.IO; // IO = Input e Output
 
 namespace ByteBankImportacaoExportacao
 {
@@ -8,25 +13,20 @@ namespace ByteBankImportacaoExportacao
     {
         static void LidandoComFileStreamDiretamente()
         {
-            //var textoComQuebraDeLinha = "minha primeira linha \n minha segunda linha";
-
             var enderecoDoArquivo = "contas.txt";
 
             using (var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
             {
-                var buffer = new byte[1024]; // É um buffer com 1kb
-
-                var numeroDeBytesLidos = -1; // (-1) pq é um valor que nunca vai ser retornado pelo READ, pois READ só retorna numero positivo ou 0, indicando que chegou no fim.
+                var buffer = new byte[1024]; // 1 kb
+                var numeroDeBytesLidos = -1;
 
                 while (numeroDeBytesLidos != 0)
                 {
                     numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
-                    Console.WriteLine($"Bytes lidos:{numeroDeBytesLidos}");
+                    Console.WriteLine($"Bytes lidos: {numeroDeBytesLidos}");
                     EscreverBuffer(buffer, numeroDeBytesLidos);
                 }
-
             }
-
         }
 
         static void EscreverBuffer(byte[] buffer, int bytesLidos)

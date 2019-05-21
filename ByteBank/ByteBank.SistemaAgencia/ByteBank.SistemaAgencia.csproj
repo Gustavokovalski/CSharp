@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E5923D65-D667-4DDC-978A-870C9D44E580}</ProjectGuid>
+    <ProjectGuid>{2C9C301E-5B56-4195-8662-30C84E970EC8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ByteBankImportacaoExportacao</RootNamespace>
-    <AssemblyName>ByteBankImportacaoExportacao</AssemblyName>
+    <RootNamespace>ByteBank.SistemaAgencia</RootNamespace>
+    <AssemblyName>ByteBank.SistemaAgencia</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,17 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="1_LidandoComStreamDiretamente.cs" />
-    <Compile Include="2_UsandoStreamReader.cs" />
-    <Compile Include="3_CriandoArquivo.cs" />
-    <Compile Include="4_StreamBinario.cs" />
-    <Compile Include="Modelos\Cliente.cs" />
-    <Compile Include="Modelos\ContaCorrente.cs" />
+    <Compile Include="Estagiario.cs" />
+    <Compile Include="ExtratorValorDeArgumentosURL.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ByteBank.Modelos\ByteBank.Modelos.csproj">
+      <Project>{c2175f0d-7024-465e-947f-c0fb51887a9c}</Project>
+      <Name>ByteBank.Modelos</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
