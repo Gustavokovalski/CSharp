@@ -114,3 +114,9 @@ namespace ByteBank.Modelos
     }
 
 }
+/// <summary>
+/// Define uma Conta Corrente do banco ByteBank.
+/// </summary>
+///   /// <summary>
+/// Define uma Conta Corrente do banco ByteBank.
+/// </summary>
